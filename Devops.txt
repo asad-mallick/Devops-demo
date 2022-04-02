@@ -1,0 +1,5 @@
+Things to learn to become Devops Engineer
+1. Git
+2. Linux
+3. Creating CI/CD pipelines
+4. Jenkins
