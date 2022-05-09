@@ -3,3 +3,6 @@ Things to learn to become Devops Engineer
 2. Linux
 3. Creating CI/CD pipelines
 4. Jenkins
+5. Dockers
+6. Kubernetes
+7. Terraform
